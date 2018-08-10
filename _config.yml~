@@ -7,18 +7,5 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: macrod68
 github_username:  macrod68
 
-slider:
-  text_color: white
-  shadow_color: black
-  slides: 
-    - image: /assets/images/port1.jpeg
-      slide_html:
-    - image: /assets/images/port2.jpeg
-      slide_html: "<h3>La Passione 1/2</h3>Shirley, do you own a Ferrari?"
-    - image: /assets/images/port3.jpeg
-      slide_html: "<h3>La Passione 2/2</h3>Yes, my life is your dream."
-    - image: /assets/images/port4.jpeg
-      slide_html:
-
 sass:
     style: compressed
