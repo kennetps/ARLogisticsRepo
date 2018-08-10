@@ -4,11 +4,10 @@
   {% include head.html %}
 
   <body>
-
+   {% include flexslider-posts.html %}
    {% include header.html %}
 
     <main>
-    
         {{ content }}
     </main>
     

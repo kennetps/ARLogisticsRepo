@@ -1,7 +1,7 @@
 ---
 layout: default
 ---	
-   {% include flexslider-posts.html %}	
+	
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
